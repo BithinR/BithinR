@@ -1,14 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner / Backdrop -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Bithin%20Krishna&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Major%20%7C%20AppSec%20%26%20AI/ML%20Developer&descAlignY=62&stroke=000000" width="100%" alt="Header Banner" />
+  # 🛡️ Bithin Krishna
+  **Cybersecurity Major | AppSec & AI/ML Developer**
 
-  <br/>
-
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&width=500&lines=Cybersecurity%20%26%20AI%20Engineering;AppSec%20%2B%20Zero-Knowledge%20Architectures;SOC%20Labs%20%26%20Network%20Hardening" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E90FA&width=480&lines=Cybersecurity%20%26%20AI%20Engineering;AppSec%20%2B%20Zero-Knowledge%20Vaults;SOC%20Labs%20%26%20Network%20Hardening)](https://github.com/BithinR)
 
 </div>
 
@@ -16,34 +11,32 @@
 
 ### 🛡️ About Me
 
-I am a Computer Science graduate specializing in **Cybersecurity**, with a strong focus on **Application Security**, **Applied AI/ML**, and **Network Hardening**. I build privacy-focused tools, work on threat analysis, and design zero-knowledge security software.
+I am a Computer Science graduate specializing in **Cybersecurity**, focused on application security, threat analysis, and building secure, privacy-first software architectures.
 
-- 🔭 **Currently Building:** AI-enhanced security applications & local vault architectures
-- 🔐 **Core Focus:** AppSec, Penetration Testing, Threat Auditing, Local ML Pipelines
-- 📜 **Certifications:** ISC2 Certified in Cybersecurity (CC)
-- ⚙️ **Stack:** Python, FastAPI, PostgreSQL, Linux, Wireshark, Burp Suite
+- 🔭 **Current Focus:** Upgrading my [Password Advisor](https://github.com/BithinR/Passoword_advisor) into an AI-enhanced local password manager with zero-knowledge encryption.
+- 🔐 **Core Focus:** AppSec, Penetration Testing, Threat Auditing, Local ML Pipelines.
+- 📜 **Certifications:** ISC2 Certified in Cybersecurity (CC).
 
 ---
 
 ### 🛠️ Tech Stack & Security Tools
 
-**Languages & Frameworks:**
-`Python` `SQL` `JavaScript` `FastAPI` `PostgreSQL` `C++`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Security & AI Tools:**
-`Wireshark` `Burp Suite` `Nmap` `Metasploit` `Sysmon` `scikit-learn` `Git`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BithinR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BithinR&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
-</div>
+- 🏥 **[CAPSTONE-AdaptivHealth-AI](https://github.com/BithinR/CAPSTONE-AdaptivHealth-AI-cardiovascular-system-with-security-architecture):** Cardiovascular health improvement system with local/cloud AI and security architecture.
+- 🔑 **[Passoword_advisor](https://github.com/BithinR/Passoword_advisor):** Security assessment utility evolving into an encrypted password vault.
+- 📓 **[LifeJournal](https://github.com/BithinR/LifeJournal):** Journaling tool featuring local AI coaching, mood tracking, and privacy safeguards.
+- 🌐 **[HealthCareClinic_SecuirtyHardening](https://github.com/BithinR/HealthCareClinic_SecuirtyHardening):** Cisco Packet Tracer network security implementation for clinical infrastructure.

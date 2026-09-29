@@ -1,9 +1,13 @@
 <div align="center">
 
   # 🛡️ Bithin Krishna
-  **Cybersecurity Major | AppSec & AI/ML Developer**
+  **Cybersecurity Major | AI/ML Developer**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E90FA&width=480&lines=Cybersecurity%20%26%20AI%20Engineering;AppSec%20%2B%20Zero-Knowledge%20Vaults;SOC%20Labs%20%26%20Network%20Hardening)](https://github.com/BithinR)
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E90FA&center=true&vCenter=true&width=600&lines=Cybersecurity%20%26%20AI%20Engineering;AppSec%20%2B%20Zero-Knowledge%20Vaults;SOC%20Labs%20%26%20Network%20Hardening" alt="Typing SVG" />
+    </a>
+  </p>
 
 </div>
 

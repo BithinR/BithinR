@@ -16,6 +16,7 @@
 ### 🛡️ About Me
 
 I am a Computer Science graduate specializing in **Cybersecurity**, focused on application security, threat analysis, and building secure, privacy-first software architectures.
+Visit my portfolio website @ https://bithinr.github.io/portfolio/
 
 - 🔭 **Current Focus:** Upgrading my [Password Advisor](https://github.com/BithinR/Passoword_advisor) into an AI-enhanced local password manager with zero-knowledge encryption.
 - 🔐 **Core Focus:** AppSec, Penetration Testing, Threat Auditing, Local ML Pipelines.
